@@ -18,14 +18,12 @@
 <img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C++&logoColor=white"/></a>&nbsp 
 
 <br/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=Raspberrypi&logoColor=white"/></a>&nbsp 
 </p>
-<br/>
 
-<br/>
-![Static Badge](https://img.shields.io/badge/ECO2%20OD-green)
-<br/>
-![Static Badge](https://img.shields.io/badge/Primavera%20P6-Primavera%20Risk%20Analysis-red)
 <br/>
 ### Office
 <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
