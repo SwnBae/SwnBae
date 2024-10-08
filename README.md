@@ -5,16 +5,11 @@
 
 ***
 
-<h3 align="center">Welcome</h3>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a>
-<br/>
-Hello, welcome to my GitHub. I am majoring in Convergence Electronics Engineering and minoring in Computer Science. <br/>
-
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL##4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <br/>
