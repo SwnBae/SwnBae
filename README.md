@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header]<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=SuhanBae's Github&fontSize=0" width="100%"/>
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=SuhanBae's%20Github&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32)
 </div>
 
 ***
@@ -29,10 +29,7 @@ Hello, welcome to my GitHub. I am majoring in Convergence Electronics Engineerin
 ![Static Badge](https://img.shields.io/badge/MIT%20App%20Inventer-orange)
 </p>
 <br/>
-### Tools
-![Static Badge](https://img.shields.io/badge/PSpice-blue)
-![Static Badge](https://img.shields.io/badge/PSIM-003458)
-![Static Badge](https://img.shields.io/badge/PSCAD-f7e600)
+
 <br/>
 <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=AutoCAD&logoColor=white"/>
 ![Static Badge](https://img.shields.io/badge/ECO2%20OD-green)
