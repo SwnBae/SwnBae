@@ -9,9 +9,9 @@
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/> </a>&nbsp
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL##4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> </a>&nbsp
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>&nbsp
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>&nbsp
