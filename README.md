@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-007396?style=flat&logo=C&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C++&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=Raspberrypi&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=Git&logoColor=F05032"/></a>
+
 
 <br/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
@@ -23,6 +24,15 @@
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 </p>
 
+<br/>
+
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=Raspberrypi&logoColor=white"/></a>&nbsp
+
+<br/>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwnBae)
