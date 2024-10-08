@@ -24,7 +24,8 @@
 </p>
 
 <br/>
-<p>
+
 ![](https://github.com/SwnBae/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/SwnBae/github-stats-transparent/blob/output/generated/languages.svg)
-</p>
+
+</div>
