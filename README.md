@@ -13,14 +13,12 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>&nbsp
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>&nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> </a>&nbsp
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> </a>&nbsp
-![Static Badge](https://img.shields.io/badge/MATLAB%20&%20SIMULINK-8A2BE2)
+<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-007396?style=flat&logo=C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C++&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/raspberrypi-007396?style=flat&logo=Raspberrypi&logoColor=white"/></a>&nbsp 
 <br/>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Ras-A22846?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
 ![Static Badge](https://img.shields.io/badge/MIT%20App%20Inventer-orange)
 </p>
 <br/>
