@@ -25,7 +25,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwnBae)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/SwnBae/github-stats-transparent/blob/output/generated/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwnBae)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact)
 
 </div>
