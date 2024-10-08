@@ -35,9 +35,11 @@
 <br/>
 <br/>
 
+<h3 align="center"> Stats </h3>
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwnBae)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact)
-
+</p>
 </div>
 
 
