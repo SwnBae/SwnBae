@@ -3,7 +3,6 @@
  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=SuhanBae's%20Github&fontSize=90&animation=fadeIn)
 </div>
 
-***
 
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
