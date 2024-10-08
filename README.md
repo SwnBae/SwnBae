@@ -16,8 +16,9 @@
 <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-007396?style=flat&logo=C&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C++&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/raspberrypi-007396?style=flat&logo=Raspberrypi&logoColor=white"/></a>&nbsp 
+
 <br/>
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=Raspberrypi&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Ras-A22846?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
 ![Static Badge](https://img.shields.io/badge/MIT%20App%20Inventer-orange)
 </p>
