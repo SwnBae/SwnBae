@@ -36,11 +36,12 @@
 <br/>
 
 <h3 align="center"> Stats </h3>
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwnBae" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact" alt="Top Langs" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwnBae)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact)
 
 </div>
 
