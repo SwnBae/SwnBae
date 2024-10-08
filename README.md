@@ -26,8 +26,8 @@
 
 <br/>
 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<img src="https://img.shields.io/badge/adobelightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=F05032"/></a>
+<img src="https://img.shields.io/badge/adobepremierepro-31A8FF?style=flat&logo=adobepremierepro&logoColor=F05032"/></a>
 
 
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=Raspberrypi&logoColor=white"/></a>&nbsp
