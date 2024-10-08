@@ -1,6 +1,6 @@
 <div align="center">
 
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=SuhanBae's%20Github&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=SuhanBae's%20Github&fontSize=90)
 </div>
 
 ***
@@ -31,7 +31,6 @@ Hello, welcome to my GitHub. I am majoring in Convergence Electronics Engineerin
 <br/>
 
 <br/>
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=AutoCAD&logoColor=white"/>
 ![Static Badge](https://img.shields.io/badge/ECO2%20OD-green)
 <br/>
 ![Static Badge](https://img.shields.io/badge/Primavera%20P6-Primavera%20Risk%20Analysis-red)
