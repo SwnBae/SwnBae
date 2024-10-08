@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Suhan%20Bae&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeauto&height=200&section=header&text=Suhan%20Bae&fontColor=white&fontSize=50&fontAlign=62&fontAlignY=32)
 </div>
 
 ***
