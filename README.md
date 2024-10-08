@@ -38,8 +38,8 @@
 <h3 align="center"> Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwnBae" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwnBae&animation=fadeIn" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact&animation=fadeIn" alt="Top Langs" />
 </p>
 
 
