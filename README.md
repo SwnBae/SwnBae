@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-007396?style=flat&logo=C&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C++&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=Git&logoColor=F05032"/></a>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=MQTT&logoColor=F05032"/></a>
 
 
 <br/>
