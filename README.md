@@ -23,9 +23,8 @@
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 </p>
 
-
+<br/>
 <p>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwnBae&show_icons=true&theme=default)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact)
+![](https://github.com/SwnBae/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/SwnBae/github-stats-transparent/blob/output/generated/languages.svg)
 </p>
