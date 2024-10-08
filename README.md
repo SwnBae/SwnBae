@@ -24,9 +24,10 @@
 </p>
 
 <br/>
-<h3 align="center"></h3>
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwnBae)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwnBae&layout=compact)
-</p>
+
 </div>
+
+
