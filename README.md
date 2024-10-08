@@ -8,19 +8,19 @@
 
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL##4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/> </a>&nbsp
+<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MySQL##4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>&nbsp
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>&nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> </a>&nbsp
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> </a>&nbsp
 ![Static Badge](https://img.shields.io/badge/MATLAB%20&%20SIMULINK-8A2BE2)
 <br/>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
 ![Static Badge](https://img.shields.io/badge/MIT%20App%20Inventer-orange)
 </p>
 <br/>
