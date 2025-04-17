@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
     <h3>👋 Hello, I'm Suhan Bae!</h3>
     <p>Welcome to my GitHub! Here you can find my projects, achievements, and more.</p>
 </div>
