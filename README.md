@@ -6,8 +6,8 @@
 <h2> </h2>
 <div align="center">
     <h3>👨‍🎓 Journey</h3>
-    <p>2019 ~ 2023: Sangmyung University</p>
-    <p>2023 ~ Present: SSAFY</p>
+    <p>2019 ~ 2025: Sangmyung University</p>
+    <p>2025 ~ Present: SSAFY</p>
 </div>
 
 <h2> </h2>
